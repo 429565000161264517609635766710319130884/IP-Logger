@@ -5,7 +5,9 @@ Simple IP Logger
 # Steps
 
 1 - Insert Your Discord Webhook URL
+
 2 - Host Your HTML Website
+
 3 - Send The Link To Your Victim
 
 # Disclaimer
