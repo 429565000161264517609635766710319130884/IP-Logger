@@ -14,7 +14,9 @@ Simple IP Logger Which Sends IP To A Discord Webhook
 
 ```
 I Am Not Responsible For What You Do Using This Logger
+
 You Are Completely Responsible For Your Actions
+
 This Application Is For Educational Purposes Only
 ```
 
