@@ -1,6 +1,6 @@
 # IP-Logger
 
-Simple IP Logger
+Simple IP Logger Which Sends IP To A Discord Webhook
 
 # Steps
 
