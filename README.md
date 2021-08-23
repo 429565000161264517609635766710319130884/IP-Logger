@@ -6,11 +6,7 @@ Simple IP Logger Which Sends IP To A Discord Webhook
 * Host Your HTML Website
 * Send The Link To Your Victim
 
-# Disclaimer
-```
-I Am Not Responsible For What You Do Using This Logger
+# Note
+This Application Is Only For Educational Purposes
 
 You Are Completely Responsible For Your Actions
-
-This Application Is For Educational Purposes Only
-```
