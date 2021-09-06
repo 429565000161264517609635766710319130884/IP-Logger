@@ -1,5 +1,7 @@
 # IP-Logger
-Simple IP Logger Which Sends IP To A Discord Webhook
+```js
+var ip_logger = "Simple IP Logger Which Sends IP To A Discord Webhook";
+```
 
 # Steps
 * Insert Your Discord Webhook URL
